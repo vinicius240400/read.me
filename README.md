@@ -1,1 +1,3 @@
-# read.me
+# aula01 de devops
+-primeiro commit
+  exemplo commit
